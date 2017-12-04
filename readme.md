@@ -1,10 +1,10 @@
 
 Bittrex-Auto
 
+[config](https://github.com/kaquay/bittrex-auto/blob/master/src/config.js)
 
 
-
-How to use 
+How to run 
 ```
 cd bittrex-auto
 npm install
